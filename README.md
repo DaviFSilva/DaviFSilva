@@ -1,5 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=700&lines=Eaee!+Me+chamo+Davi;Hello+World!!!!;Boas-vindas+ao+meu+perfil!" alt="Title"></img>
 
+<img src="/assets/coffee_and_programming.jpeg" width="300" align="right"/>
+
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Um pouco sobre mim
 
 - :credit_card: Meu nome completo é **Davi Feitosa Silva Santana**
