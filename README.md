@@ -37,7 +37,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DaviFSilva/DaviFSilva/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 🏆 &nbsp; GitHub Trophies
+## <img src = "assets/award.gif" width = 32px>  GitHub Trophies
 
 <picture>
   <source
