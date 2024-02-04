@@ -8,7 +8,7 @@
 - :computer: Sou apaixonado por programação e eletrônica
 - :mortar_board: Estou na 5ª fase do técnico em eletrônica no IFSC
 - :robot: Atualmente faço parte de uma equipe de robótica
-- :wrench: Ferramenta que estou estudando atualmente: ReactJS
+- :wrench: Ferramenta que estou estudando atualmente: :electron: ReactJS
 - :books: Adoro ler mangás
 - :latin_cross: 100% fechado com Cristo
 
