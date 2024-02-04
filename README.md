@@ -1,7 +1,14 @@
-### Olá! Bem-vindo ao Github de Davi Feitosa
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=700&lines=Eaee!+Me+chamo+Davi;Hello+World!!!!;Boas-vindas+ao+meu+perfil!" alt="Title"></img>
 
-- 🔭 Atualmente faço parte de uma equipe de robótica
-- 🌱 Estudando Java
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Um pouco sobre mim
+
+- :credit_card: Meu nome completo é **Davi Feitosa Silva Santana**
+- :computer: Sou apaixonado por programação e eletrônica
+- :mortar_board: Estou na 5ª fase do técnico em eletrônica no IFSC
+- :robot: Atualmente faço parte de uma equipe de robótica
+- :wrench: Ferramenta que estou estudando atualmente: ReactJS
+- :books: Adoro ler mangás
+- :latin_cross: 100% fechado com Cristo
 
  ## Contact
 <p align ="center">
