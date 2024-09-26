@@ -6,7 +6,7 @@
 
 - :credit_card: Meu nome completo é **Davi Feitosa Silva Santana**
 - :computer: Sou apaixonado por programação e eletrônica
-- :mortar_board: Estou na 5ª fase do técnico em eletrônica no IFSC
+- :mortar_board: Estou na 6ª fase do técnico em eletrônica no IFSC
 - :robot: Atualmente faço parte de uma equipe de robótica
 - :wrench: Ferramenta que estou estudando atualmente: :electron: ReactJS
 - :books: Adoro ler mangás
