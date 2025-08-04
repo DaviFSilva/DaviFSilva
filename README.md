@@ -29,6 +29,18 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DaviFSilva/DaviFSilva/output/github-contribution-grid-snake.svg">
 </picture>
 
+## Projects
+**TEAM BRAZIL**
+- FeedingTheFuture: Programação do robô da temporada de 2024;
+- FGCLib: Biblioteca que visa auxiliar novas equipes a interagir com a biblioteca da FTC.
+
+**FRC5800 - MAGIC ISLAND ROBOTICS**
+- Competição: Auxiliei na produção do código em 3 temporadas de competição;
+- MagicScouting: Aplicativo mobile e web para auxiliar no processo de scouting na competição.
+
+**MUNDO DA ROBÓTICA**
+- Site: Trabalhei no design e produção do site [Mundo da Robótica](mundodarobotica.com), utilizando Wordpress.
+
 ## <img src = "assets/award.gif" width = 32px>  GitHub Trophies
 
 <picture>
